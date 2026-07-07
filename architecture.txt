@@ -1,0 +1,34 @@
+                    +----------------------+
+                    |        User          |
+                    +----------+-----------+
+                               |
+                               | Ask Question
+                               v
+                  +---------------------------+
+                  |      EcoGuide AI          |
+                  |   (Gemini AI Chatbot)     |
+                  +------------+--------------+
+                               |
+                  Searches Knowledge Base
+                               |
+                               v
+          +---------------------------------------+
+          |  Uploaded PDF Knowledge Base (RAG)    |
+          |---------------------------------------|
+          | • Plastic Waste Management            |
+          | • Sustainable Living                  |
+          | • Water Conservation                  |
+          | • Energy Conservation                 |
+          +----------------+----------------------+
+                           |
+                  Retrieves Relevant Information
+                           |
+                           v
+                +-----------------------------+
+                |  AI Generates Response      |
+                +-------------+---------------+
+                              |
+                              v
+                     +----------------+
+                     |   User Answer  |
+                     +----------------+
