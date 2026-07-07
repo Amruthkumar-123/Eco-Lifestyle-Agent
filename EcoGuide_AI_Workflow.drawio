@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ydHUW7LM3XgwPspR3m_T">
+    <mxGraphModel dx="200" dy="114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;EcoGuide AI – Workflow Diagram&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="255" x="312.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;START&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-12" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;User Opens EcoGuide AI&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="363.75" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-13" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;User Enters Question&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="370" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-10" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Search Uploaded PDF Knowledge Base&lt;br&gt;            (RAG Retrieval)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="167.5" x="360" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-14" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Relevant Information Retrieved?&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="360" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-22" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;YES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="40" x="420" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-11" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.497;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" target="JSi-Yf0hfBAV2_iMMbyf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-21" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Gemini Generates Response&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="385" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-20" edge="1" parent="1" source="JSi-Yf0hfBAV2_iMMbyf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="JSi-Yf0hfBAV2_iMMbyf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;&amp;nbsp;Display Eco-Friendly Answer&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="390" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="JSi-Yf0hfBAV2_iMMbyf-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;END&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="50" x="415" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
