@@ -1,0 +1,23 @@
+                    START
+                      │
+                      ▼
+             User Opens EcoGuide AI
+                      │
+                      ▼
+             User Asks a Question
+                      │
+                      ▼
+        AI Searches Uploaded PDF Documents
+              (Knowledge Base - RAG)
+                      │
+                      ▼
+      Relevant Information Retrieved
+                      │
+                      ▼
+      Gemini AI Generates Accurate Answer
+                      │
+                      ▼
+       User Receives Eco-Friendly Guidance
+                      │
+                      ▼
+                     END
